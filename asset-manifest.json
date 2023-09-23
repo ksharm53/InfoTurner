@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/InfoTurner/static/css/main.abb048df.chunk.css",
+    "main.js": "/InfoTurner/static/js/main.2a8abb94.chunk.js",
+    "main.js.map": "/InfoTurner/static/js/main.2a8abb94.chunk.js.map",
+    "runtime~main.js": "/InfoTurner/static/js/runtime~main.eca49155.js",
+    "runtime~main.js.map": "/InfoTurner/static/js/runtime~main.eca49155.js.map",
+    "static/css/2.8274d451.chunk.css": "/InfoTurner/static/css/2.8274d451.chunk.css",
+    "static/js/2.4670f957.chunk.js": "/InfoTurner/static/js/2.4670f957.chunk.js",
+    "static/js/2.4670f957.chunk.js.map": "/InfoTurner/static/js/2.4670f957.chunk.js.map",
+    "index.html": "/InfoTurner/index.html",
+    "precache-manifest.a5a41f2895beb77e350022625249c19d.js": "/InfoTurner/precache-manifest.a5a41f2895beb77e350022625249c19d.js",
+    "service-worker.js": "/InfoTurner/service-worker.js",
+    "static/css/2.8274d451.chunk.css.map": "/InfoTurner/static/css/2.8274d451.chunk.css.map",
+    "static/css/main.abb048df.chunk.css.map": "/InfoTurner/static/css/main.abb048df.chunk.css.map",
+    "static/media/style.css": "/InfoTurner/static/media/bg.32ce4100.jpg",
+    "static/media/3.jpg": "/InfoTurner/static/media/3.767f0bbb.jpg",
+    "static/media/4.jpg": "/InfoTurner/static/media/4.767f0bbb.jpg",
+    "static/media/7.jpg": "/InfoTurner/static/media/7.2770d871.jpg",
+    "static/media/all.css": "/InfoTurner/static/media/fa-v4compatibility.f20773a7.woff2",
+    "static/media/font-awesome.min.css": "/InfoTurner/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/slick-theme.css": "/InfoTurner/static/media/slick.f97e3bbf.svg"
+  }
+}
